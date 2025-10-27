@@ -32,3 +32,7 @@ Fixed bug following security guidelines - ID: 2dv6iyy5
 ## Update 2025-10-28 02:47:49
 Added new feature to optimize resource usage - ID: n1jezjdj
 
+
+## Update 2025-10-28 02:47:59
+Added configuration for better user experience - ID: ok7iek7l
+
